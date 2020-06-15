@@ -1,22 +1,32 @@
+h1{
+        text-align: left ;
+        font-size: 32px ;
+        color: #ffff07 ;
+}
+h2{
+        text-align: center ;
+        font-size: 24px ;
+        color: #ffff07 ;
+}
+h3{
+        text-align: center ;
+        font-size: 24px ;
+        color: #ffff07 ;
+}
 footer{
         text-align: center ;
-        color: #ffffff ;
         font-size: 12px ;
 }
 p{
         text-align: center ;
-        color: #ffffff ;
         font-size: 16px ;
 }
-form{
-        text-align: center ;
-}
-body{
-        background: #000000 ;
-}
 ul{
-        text-align: left ;
-        color: #ffff07 ;
+        text-align: center ;
+        font-size: 18px ;
+}
+ol{
+        float: right ;
         font-size: 24px ;
 }
 img{
