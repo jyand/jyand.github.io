@@ -29,12 +29,14 @@ ul{
         text-align: left ;
         font-size: 18px ;
 }
-ol{
+nav{
         float: right ;
+}
+ol{
         text-align: center ;
         font-size: 24px ;
         color: #ffff07 ;
-        border: dotted ;
+        border: solid ;
 }
 img{
         float:center ;
